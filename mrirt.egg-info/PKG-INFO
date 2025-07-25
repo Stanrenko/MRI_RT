@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: mrirt
+Version: 0.1.dev1
+Summary: MRF tools ...
+Requires-Python: >=3.7
+Requires-Dist: numpy
+Requires-Dist: pillow
+Requires-Dist: tqdm
+Requires-Dist: matplotlib
+Requires-Dist: requests
+Requires-Dist: pywavelets
+Requires-Dist: bm3d
+Requires-Dist: bm4d
+Requires-Dist: twixtools@ git+https://github.com/StanRenko/twixtools.git
+Requires-Dist: machines@ git+https://github.com/py-baudin/machines.git
+Provides-Extra: cupy
+Requires-Dist: cupy; extra == "cupy"
