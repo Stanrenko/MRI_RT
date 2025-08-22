@@ -1,4 +1,4 @@
-# Dynamic MRI with BART 
+# Dynamic MRI illustration with BART 
 
 ## Requirements
 
